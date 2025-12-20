@@ -56,7 +56,7 @@ const Hero = () => {
             {/* Main Headline - Premium Typography */}
             <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-extrabold leading-tight">
               <span className="block animate-fade-in-up text-shadow-premium" style={{ color: '#012A4A', animationDelay: '0.2s', animationFillMode: 'both' }}>
-                See the World
+                See the Worldddddddd
               </span>
               <span className="block mt-1 animate-fade-in-up text-shadow-premium" style={{ color: '#000000', animationDelay: '0.4s', animationFillMode: 'both' }}>
                 Clearly Again
